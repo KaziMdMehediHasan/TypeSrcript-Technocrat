@@ -21,6 +21,7 @@
     }
 
     // function type alias
+    // type + alias name = (value : declare type) => declare return type
 
     type Details = (name: string, roll: number, phone: string) => string;
 

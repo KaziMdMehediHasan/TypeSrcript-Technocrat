@@ -11,7 +11,7 @@ const user: {
     company: 'Programming Hero',
     country: 'Bangladesh',
     firstName: 'John',
-    middleName: 'Ulfi',
+    middleName: 'Steven',
     lastName: 'Doe',
     isMarried: true
 };

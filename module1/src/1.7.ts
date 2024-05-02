@@ -2,7 +2,7 @@
     // spread operator
 
     const sheikh1: string[] = ["Imam Abu Hanifa", 'Imam Ahmad', 'Imam Malek'];
-    const sheikh2: string[] = ['Usaimin', 'Ibn Baz', 'Albani'];
+    const sheikh2: string[] = ['Sheikh Usaimin', 'Sheikh Ibn Baz', 'Sheikh Albani'];
 
     sheikh1.push(...sheikh2);
 
