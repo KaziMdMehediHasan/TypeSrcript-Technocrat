@@ -11,6 +11,7 @@
         age: number;
     }
 
+    // extending type alias with intersection
     type User1 = User & { status: string; }
 
     const userWithRole: User1 = {
