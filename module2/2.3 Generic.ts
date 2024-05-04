@@ -28,4 +28,8 @@
     const userWithID: GenericTuple<number, { name: string, age: number }> = [1234, { name: 'John', age: 40 }];
 
     //
+
+    // generic type with interface
+
+
 }
